@@ -1,4 +1,4 @@
-from  import Freezer
+from flask_frozen import Freezer
 from universe import app
 
 freezer = Freezer(app)
