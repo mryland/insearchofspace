@@ -9,7 +9,7 @@ Music database, and visualization project.
 ### Make sure you have Python 3.7 installed, and pip is updated
 
 
-###I would recommend setting up a venv in your project folder:
+### I would recommend setting up a venv in your project folder:
 
 ```python
 python -m venv .venv
