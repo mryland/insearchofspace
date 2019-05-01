@@ -10,8 +10,9 @@ Music database, and visualization project.
 
 
 ###I would recommend setting up a venv in your project folder:
-'''python
+
+```python
 python -m venv .venv
-'''
+```
 
 ### Refer to [requirements.txt](requrements.txt) if you are missing packages
