@@ -15,4 +15,4 @@ Music database, and visualization project.
 python -m venv .venv
 ```
 
-### Refer to [requirements.txt](../blob/master/requrements.txt) if you are missing packages
+### Refer to [requirements.txt](../blob/master/requirements.txt) if you are missing packages
